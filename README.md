@@ -14,6 +14,6 @@ The `popularPosts` component can be used to display top viewed posts.
 #### Views (counter)
 The `Views` component can be used to display post views number. In most cases use just {{ post.views }} without this component.
 
-##Credits
+## Credits
 
-https://github.com/vdomah/blogviews
+[Art Gek](https://github.com/vdomah/blogviews)
