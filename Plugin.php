@@ -27,8 +27,8 @@ class Plugin extends PluginBase
         return [
             'name'        => 'fenncs.newspageviews::lang.plugin.name',
             'description' => 'fenncs.newspageviews::lang.plugin.description',
-            'author'      => 'Art Gek',
-            'icon'        => 'icon-signal',
+            'author'      => 'Fon E. Noel NFEBE',
+            'icon'        => 'oc-icon-eye',
             'homepage'    => 'https://github.com/fenn-cs/newspageviews'
         ];
     }
